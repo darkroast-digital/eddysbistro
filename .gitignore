@@ -1,0 +1,8 @@
+node_modules/
+vendor/
+composer.lock
+mail.php
+mix-manifest.json
+npm-debug.log
+webpack.mix.js
+yarn.lock
