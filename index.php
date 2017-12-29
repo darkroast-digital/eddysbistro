@@ -1443,6 +1443,8 @@
                 <h6>Facebook</h6>
                 
                 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Feddysmediterraneanbistro&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=110296476337593" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+                <a href="https://www.skipthedishes.com/eddys-mediterranean-bistro" title="Windsor Food Delivery, Windsor Order Delivery"><img src="http://blog.SkipTheDishes.com/wp-content/uploads/orderdeliverynow_RED.png" border="0" alt="Windsor Food Delivery, Windsor Order Delivery"></a>
             </div>
             <div class="column-4">
                 <h6>Contact Us</h6>
