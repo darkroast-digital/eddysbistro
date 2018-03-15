@@ -7,9 +7,9 @@ $mg = Mailgun::create('key-1715c074f053673f6e3c4c79e8595390');
 # Now, compose and send your message.
 # $mg->messages()->send($domain, $params);
 $mg->messages()->send('eddysbistro.ca', [
-  'from'    => 'contact@eddysbistro.ca',
-  'to'      => 'trevor@darkroast.co',
-  'subject' => 'New Reservation Request',
+  'from'    => $_POST['email'],
+  'to'      => 'embistro@outlook.com',
+  'subject' => 'New Reservation Request from ' . $_POST['name'],
   'html'    => $_POST['name'] . " is requesting a reservation at Eddy's Bistro on " . 
               $_POST['date'] . " at " . $_POST['time'] . ". <br/>
               The number of guests in the party are " . $_POST['guests'] . ".<br/>" .

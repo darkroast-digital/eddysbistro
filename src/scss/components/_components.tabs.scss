@@ -118,38 +118,38 @@
         .menu-item {
             margin:10px 0;
 
-            .title-price {
-                display:flex;
-                align-items:flex-end;
-                justify-content:space-between;
-                position:relative;
-                z-index:10;
+            // .title-price {
+            //     display:flex;
+            //     align-items:flex-end;
+            //     justify-content:space-between;
+            //     position:relative;
+            //     z-index:10;
 
-                &:after {
-                    content:'';
-                    position:absolute;
-                    bottom:.7rem;
-                    left:0;
-                    z-index:-10;
-                    height:2px;
-                    width:100%;
-                    border-bottom:2px dotted black;
-                }
+            //     &:after {
+            //         content:'';
+            //         position:absolute;
+            //         bottom:.7rem;
+            //         left:0;
+            //         z-index:-10;
+            //         height:2px;
+            //         width:100%;
+            //         border-bottom:2px dotted black;
+            //     }
 
-                h6, p {
-                    background-color:white;
-                    padding:0.25rem;
-                    padding-left:0;
-                    margin-bottom:0;
-                }
+            //     h6, p {
+            //         background-color:white;
+            //         padding:0.25rem;
+            //         padding-left:0;
+            //         margin-bottom:0;
+            //     }
 
-                p {
-                    color:$secondary;
-                    font-family:$font-one;
-                    font-size:1.1rem;
-                    font-weight:700;
-                }
-            }
+            //     p {
+            //         color:$secondary;
+            //         font-family:$font-one;
+            //         font-size:1.1rem;
+            //         font-weight:700;
+            //     }
+            // }
         }
 
         .dessert-container {

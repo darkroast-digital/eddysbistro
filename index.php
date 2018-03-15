@@ -19,8 +19,8 @@
 
     <!-- Title and Description -->
 
-    <title>Eddy's Mediterranean Bistro</title>
-    <meta name="description" content="Eddy's Mediterranean Bistro is your stop for delicious food at great prices. Our customers truly appreciate our commitment to providing quality food and service. As a result, they’ve rated us #1 our of 650 restaurants in Windsor. Haven’t had a chance to try our food yet? We invite you to come by and promise you’ll see why we’re #1!">
+    <title>Eddy's</title>
+    <meta name="description" content="Eddy's is your stop for delicious food at great prices. Our customers truly appreciate our commitment to providing quality food and service. As a result, they’ve rated us #1 our of 650 restaurants in Windsor. Haven’t had a chance to try our food yet? We invite you to come by and promise you’ll see why we’re #1!">
     <meta name="keywords" content="eddy's, eddys, eddy's bistro, eddy's mediterranean bistro, mediterranean, food, restaurant, windsor, windsor restaurant, mediteranean food, dine in, take out, delivery, catering, appetizers, soup, salad, manakeesh, wraps, lunch, combos, lunch combos, platters, entres, pasta, skewers, dessert, drinks, wine, bar, alcohol">
 
     <!-- Favicons -->
@@ -29,11 +29,11 @@
 
     <!-- Open Graph -->
 
-    <meta property="og:title" content="Eddy's Mediterranean Bistro">
-    <meta property="og:description" content="Eddy's Mediterranean Bistro is your stop for delicious food at great prices. Our customers truly appreciate our commitment to providing quality food and service. As a result, they’ve rated us #1 our of 650 restaurants in Windsor. Haven’t had a chance to try our food yet? We invite you to come by and promise you’ll see why we’re #1!">
+    <meta property="og:title" content="Eddy's">
+    <meta property="og:description" content="Eddy's is your stop for delicious food at great prices. Our customers truly appreciate our commitment to providing quality food and service. As a result, they’ve rated us #1 our of 650 restaurants in Windsor. Haven’t had a chance to try our food yet? We invite you to come by and promise you’ll see why we’re #1!">
     <meta property="og:type" content="website">
     <meta property="og:url" content="eddysbistro.ca">
-    <meta property="og:site_name" content="Eddy's Mediterranean Bistro">
+    <meta property="og:site_name" content="Eddy's">
     <meta property="og:image" content="assets/img/og.jpg">
 
 
@@ -147,12 +147,13 @@
                     <li data-tab="6">Platters</li>
                     <li data-tab="7">Entres</li>
                     <li data-tab="8">Pasta</li>
+                    <li data-tab="13">Steaks</li>
                     <li data-tab="9">Skewers</li>
                     <li data-tab="10">Dessert</li>
                     <li data-tab="11">Drinks</li>
                     <li data-tab="12">Wine &amp; Bar</li>
                 </ul>
-                <div class="tabs__body">
+                <div class="tabs__body" style="width:100%;">
 
                     <h4 class="tab-title" data-tab="1">Appetizers</h4>
                     <div class="tabs__content is--active" data-tab="1">
@@ -162,7 +163,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Hummus</h6>
-                                        <p>R 5.00 | L 9.00</p>
                                     </div>
                                     <p>Chickpeas blended with tahini, lemon juice &amp; topped with virgin olive oil</p>
                                 </div>
@@ -172,7 +172,6 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Grape Leaves</h6>
-                                            <p>4.00</p>
                                         </div>
                                         <p>Vine leaves stuffed with rice, tomatoes, parsley &amp; onions (3 Pieces)</p>
                                     </div>
@@ -182,19 +181,8 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Falafel</h6>
-                                            <p>4.00</p>
                                         </div>
-                                        <p>A mix of ground chickpeas, fava beans &amp; vegetables, baked or fried (3 Pieces)</p>
-                                    </div>
-                                </div>
-
-                                <div class="column-4">
-                                    <div class="menu-item">
-                                        <div class="title-price">
-                                            <h6>Fried Kibbi</h6>
-                                            <p>5.50</p>
-                                        </div>
-                                        <p>Ground sirloin mixed cracked wheat &amp; stuffed with spiced beef, onions &amp; pine nuts fried in vegetable oil (3 Pieces)</p>
+                                        <p>A mix of ground chickpeas, fava beans &amp; vegetables (3 Pieces)</p>
                                     </div>
                                 </div>
 
@@ -202,7 +190,6 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Cheese Sambusik</h6>
-                                            <p>5.50</p>
                                         </div>
                                         <p>Deep fried pastries filled with a blend of cheese (3 Pieces)</p>
                                     </div>
@@ -212,19 +199,8 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Spinach Pie</h6>
-                                            <p>4.00</p>
                                         </div>
-                                        <p>Baked pastry filled with spinach mixed with onions &amp; sumac (3 Pieces)</p>
-                                    </div>
-                                </div>
-                    
-                                <div class="column-4">
-                                    <div class="menu-item">
-                                        <div class="title-price">
-                                            <h6>Rice</h6>
-                                            <p>5.00</p>
-                                        </div>
-                                        <p>Your choice of white rice, meat rice, or lentil rice</p>
+                                        <p>Baked pastry filled with spinach mixed with onion &amp; sumac (3 Pieces)</p>
                                     </div>
                                 </div>
 
@@ -232,7 +208,6 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Spicy Potatoes</h6>
-                                            <p>6.00</p>
                                         </div>
                                         <p>Fried potato cubes sauteed in fresh garlic, cilantro and lemon</p>
                                     </div>
@@ -242,9 +217,17 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Mussels</h6>
-                                            <p>10.00</p>
                                         </div>
-                                        <p>Tossed in our housemade garlic marinara sauce</p>
+                                        <p>New Zealand mussels, tossed in our housemade garlic marinara sauce</p>
+                                    </div>
+                                </div>
+
+                                <div class="column-4">
+                                    <div class="menu-item">
+                                        <div class="title-price">
+                                            <h6>Cheese Platter</h6>
+                                        </div>
+                                        <p>4 types of cheese from around the globe provided by La Belle Fromage. Served with bread and garnish</p>
                                     </div>
                                 </div>
 
@@ -255,29 +238,12 @@
                     <div class="tabs__content" data-tab="2">
                         <div class="container">
 
-                            <div class="column-12">
-                                <div class="tab-description">
-                                    <p>Arabic style pizzas made to order with fresh ingredients and baked. Substitutions will vary in price.</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Lentil Soup</h6>
-                                        <p>4.50</p>
-                                    </div>
-                                    <p>Soup of crushed and pureed lentils</p>
-                                </div>
-                            </div>
-
                             <div class="column-4">
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Fattoush Salad</h6>
-                                            <p>R 6.00 | L 9.00</p>
                                         </div>
-                                        <p>Romaine lettuce, cucumber, tomatoes, red/green cabbage, green peppers, radishes &amp; fried pita chips tossed in a house dressing</p>
+                                        <p>Romaine lettuce, cucumber, tomatoes, red/green cabbage, radishes &amp; fried pita chips tossed in a house dressing</p>
                                     </div>
                                 </div>
 
@@ -285,7 +251,6 @@
                                     <div class="menu-item">
                                         <div class="title-price">
                                             <h6>Tabbouleh Salad</h6>
-                                            <p>7.00</p>
                                         </div>
                                         <p>Fresh chopped parsley, cracked wheat, diced onions &amp; tomatoes mixed with lemon &amp; olive oil</p>
                                     </div>
@@ -294,20 +259,36 @@
                                 <div class="column-4">
                                     <div class="menu-item">
                                         <div class="title-price">
-                                            <h6>Greek Salad</h6>
-                                            <p>6.00</p>
+                                            <h6>Caesar Salad</h6>
                                         </div>
-                                        <p>Iceberg lettuce, tomatoes, onions, black olives &amp; feta tossed in house dressing</p>
+                                        <p>Romaine lettuce, fresh baked croutons tossed in our famous house caesar dressing</p>
                                     </div>
                                 </div>
 
                                 <div class="column-4">
                                     <div class="menu-item">
                                         <div class="title-price">
-                                            <h6>Caesar Salad</h6>
-                                            <p>6.00</p>
+                                            <h6>Greek Salad</h6>
                                         </div>
-                                        <p>Romaine lettuce, fresh backed croutons tossed in a house dressing</p>
+                                        <p>Iceberg lettuce, tomatoes, onions, black olive & feta tossed in our house dressing</p>
+                                    </div>
+                                </div>
+
+                                <div class="column-4">
+                                    <div class="menu-item">
+                                        <div class="title-price">
+                                            <h6>Caprese Salad</h6>
+                                        </div>
+                                        <p>Creamy BelGioioso Mozzarella, Heirloom tomatoes, Basil topped with balsamic reduction</p>
+                                    </div>
+                                </div>
+
+                                <div class="column-4">
+                                    <div class="menu-item">
+                                        <div class="title-price">
+                                            <h6>Lentil Soup</h6>
+                                        </div>
+                                        <p>Soup of crushed and pureed lentils</p>
                                     </div>
                                 </div>
 
@@ -318,13 +299,20 @@
                     <div class="tabs__content" data-tab="3">
                         <div class="container">
                             
+                            <div class="column-12">
+                                <div class="menu-item">
+                                    <div class="title-price">
+                                        <h6>Choose one of our Arabic style pizzas made to order with fresh ingredients & baked</h6>
+                                    </div>
+                                </div>
+                            </div>
+
                             <div class="column-4">
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Zaatar</h6>
-                                        <p>2.50</p>
                                     </div>
-                                    <p>Thyme &amp; sesame seeds mixed with virgin olive oil</p>
+                                    <p>Thyme & sesame seeds mixed with virgin olive oil</p>
                                 </div>
                             </div>
 
@@ -332,7 +320,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Acawi Cheese</h6>
-                                        <p>4.50</p>
                                     </div>
                                     <p>A melted white cheese with a hint of sweet and salty flavour</p>
                                 </div>
@@ -342,9 +329,8 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Mozzarella Cheese</h6>
-                                        <p>3.50</p>
                                     </div>
-                                    <p>Melted mozzarella cheese</p>
+                                    <p>Melted mozzarella</p>
                                 </div>
                             </div>
 
@@ -352,19 +338,8 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beef</h6>
-                                        <p>3.50</p>
                                     </div>
-                                    <p>Lean ground beef mixed with house spices &amp; finely chopped tomatoes &amp; onions</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Vegetable</h6>
-                                        <p>3.00</p>
-                                    </div>
-                                    <p>Chopped onions, green/red peppers, tomatoes &amp; olives</p>
+                                    <p>Lean ground beef mixed with house spices and finely chopped tomatoes & onions</p>
                                 </div>
                             </div>
 
@@ -378,8 +353,7 @@
                             <div class="column-12">
                                 <div class="tab-description">
                                     <p>Please choose from the following toppings: Hummus, garlic, lettuce, tomatoes, pickles, turnips, onions, or parsley.</p>
-                                    <p>Add fries or fattoush: 4.00 | Add cheese: 1.00</p>
-                                    <p>Gluten free wraps available.</p>
+                                    <p>Gluten free wraps available (extra charge)</p>
                                 </div>
                             </div>
 
@@ -387,7 +361,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Falafel Wrap</h6>
-                                        <p>5.25</p>
                                     </div>
                                 </div>
                             </div>
@@ -396,7 +369,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Chicken Shawarma Wrap</h6>
-                                        <p>5.50</p>
                                     </div>
                                 </div>
                             </div>
@@ -405,7 +377,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beef Shawarma Wrap</h6>
-                                        <p>5.75</p>
                                     </div>
                                 </div>
                             </div>
@@ -414,7 +385,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Kafta Wrap</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -423,7 +393,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Chicken Shish Tawook Wrap</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -432,16 +401,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beef Shish Kabob Wrap</h6>
-                                        <p>7.00</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Chicken/Beef Burger</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -456,7 +415,6 @@
                             <div class="column-12">
                                 <div class="tab-description">
                                     <p>Served with fattoush and hummus.</p>
-                                    <p>Make it a wrap: 1.00 | Any substitutions: 1.00</p>
                                 </div>
                             </div>
 
@@ -464,7 +422,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Vegetables</h6>
-                                        <p>10.50</p>
                                     </div>
                                     <p>1 falafel, 1 grape leaf &amp; 1 spinach pie</p>
                                 </div>
@@ -474,7 +431,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beef Shawarma</h6>
-                                        <p>11.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -483,7 +439,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Chicken Shawarma</h6>
-                                        <p>10.50</p>
                                     </div>
                                 </div>
                             </div>
@@ -492,7 +447,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Kafta</h6>
-                                        <p>12.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -501,7 +455,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Chicken Shish Tawook</h6>
-                                        <p>12.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -510,7 +463,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beef Shish Kabob</h6>
-                                        <p>13.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -526,7 +478,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Veggie Platter</h6>
-                                        <p>18.00</p>
                                     </div>
                                     <p>Served with hummus, tabbouleh/fattoush, two falafel patties, two spinach pies &amp; two grape leaves</p>
                                 </div>
@@ -536,9 +487,8 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>BBQ Platter</h6>
-                                        <p>45.00</p>
                                     </div>
-                                    <p><strong>Serves 2-4 guests.</strong> Regular fattoush salad &amp; hummus, two kaftas, two beef shish kabobs, two chicken shish tawooks &amp; fries or rice</p>
+                                    <p><strong>Serves 2-3 guests.</strong> Regular fattoush salad &amp; hummus, two kaftas, two beef shish kabobs, two chicken shish tawooks &amp; fries or rice</p>
                                 </div>
                             </div>
 
@@ -546,23 +496,27 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Family Platter</h6>
-                                        <p>85.00</p>
                                     </div>
-                                    <p><strong>Serves 6-8 guests.</strong> Large fattoush salad &amp; hummus, four kaftas, four beef shish kabobs, four chicken shish tawooks, chicken &amp; beef shawarma &amp; fries or rice</p>
+                                    <p><strong>Serves 4-7 guests.</strong> Large fattoush salad &amp; hummus, three kaftas, three beef shish kabobs, three chicken shish tawooks, chicken &amp; beef shawarma &amp; fries or rice</p>
                                 </div>
                             </div>
 
                             <div class="column-4">
                                 <div class="menu-item">
                                     <div class="title-price">
-                                        <h6>Add Extras</h6>
+                                        <h6>Sides & Extras</h6>
                                     </div>
-                                    <p><strong>Chicken shish tawook</strong> | 5.00<br/>
-                                    <strong>Kafta</strong> | 5.00<br/>
-                                    <strong>Beef shish kabob</strong> | 6.00<br/>
-                                    <strong>Shrimp</strong> | 5.00<br/>
-                                    <strong>Lamb chop (1 piece)</strong> | 5.00<br/>
-                                    <strong>Chicken or beef shawarma</strong> | 4.00</p>
+                                    <p><strong>Chicken shish tawook<br/>
+                                    Kafta<br/>
+                                    Beef shish kabob<br/>
+                                    Shrimp<br/>
+                                    Lamb chop (1 piece)<br/>
+                                    Chicken or beef shawarma<br/>
+                                    Rice (White, meat or lentil)<br/>
+                                    Pickles/Turnips<br/>
+                                    Side Garlic<br/>
+                                    Regular Garlic<br/>
+                                    Fries</strong></p>
                                 </div>
                             </div>
 
@@ -576,17 +530,33 @@
                             <div class="column-12">
                                 <div class="tab-description">
                                     <p>Entrees served with your choice of spaghetti marinara, rice, fries, or sauteed vegetables.</p>
-                                    <p>Any substitutions: 3.00</p>
                                 </div>
                             </div>
 
                             <div class="column-4">
                                 <div class="menu-item">
                                     <div class="title-price">
-                                        <h6>Lamb Chops</h6>
-                                        <p>24.00</p>
+                                        <h6>Chicken Shish Tawook</h6>
                                     </div>
-                                    <p>Four pieces of tender New Zealand lamb chops seasoned &amp; marinated with house recipe &amp; grilled to your preference</p>
+                                    <p>Two skewers of thick pieces of boneless chicken breast, seasoned &amp; cooked on the grill</p>
+                                </div>
+                            </div>
+
+                            <div class="column-4">
+                                <div class="menu-item">
+                                    <div class="title-price">
+                                        <h6>Beef Shish Kabob</h6>
+                                    </div>
+                                    <p>Two skewers of thick pieces of beef tenderloin, seasoned &amp; cooked on the grill to your preference.</p>
+                                </div>
+                            </div>
+
+                            <div class="column-4">
+                                <div class="menu-item">
+                                    <div class="title-price">
+                                        <h6>Kafta</h6>
+                                    </div>
+                                    <p>Three pieces of extra lean ground beef minced with parsley, onions & flavourful spices, grilled</p>
                                 </div>
                             </div>
 
@@ -594,20 +564,17 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Mixed Grill</h6>
-                                        <p>23.00</p>
                                     </div>
-                                    <p>Enjoy all the flavours! A skewer of each, chicken shish tawook, beef shish kabob &amp; kafta</p>
+                                    <p>Enjoy all the flavours! A skewer of each chicken shish tawook, beef shish kabob &amp; kafta</p>
                                 </div>
                             </div>
 
                             <div class="column-4">
                                 <div class="menu-item">
                                     <div class="title-price">
-                                        <h6>Our Steaks</h6>
-                                        <p>23.00 | 24.00 | 24.00</p>
+                                        <h6>Shawarma</h6>
                                     </div>
-                                    <p>All Season and marinated with a house recipe &amp; cooked to your preference.</p>
-                                    <p><strong>Our steaks : 10 oz. New York Steak | 10 oz. Rib Steak | 8 oz. Filet Mignon</strong></p>
+                                    <p>Choose your option of chicken, beef or mixed shawarma</p>
                                 </div>
                             </div>
 
@@ -615,9 +582,8 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Whole Chicken/Half Chicken</h6>
-                                        <p>21.00 | 15.00</p>
                                     </div>
-                                    <p>Seasoned &amp; marinated with house spices, then baked in the over &amp; grill</p>
+                                    <p>Seasoned &amp; marinated with house spices then baked in the oven &amp; grill</p>
                                 </div>
                             </div>
 
@@ -625,7 +591,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Cod</h6>
-                                        <p>16.00</p>
                                     </div>
                                     <p>Three pieces of cod filets, seasoned &amp; grilled</p>
                                 </div>
@@ -635,7 +600,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Salmon</h6>
-                                        <p>16.00</p>
                                     </div>
                                     <p>Two pieces of salmon filets, seasoned &amp; grilled</p>
                                 </div>
@@ -645,7 +609,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Shrimp</h6>
-                                        <p>16.00</p>
                                     </div>
                                     <p>Two skewers of seasoned &amp; marinated shrimp baked in the oven</p>
                                 </div>
@@ -654,60 +617,9 @@
                             <div class="column-4">
                                 <div class="menu-item">
                                     <div class="title-price">
-                                        <h6>Chicken Shish Tawook</h6>
-                                        <p>18.00</p>
+                                        <h6>Lamb Chops</h6>
                                     </div>
-                                    <p>Two skewers of thick pieces of boneless chicken breast, marinated &amp; cooked on the grill</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Beef Shish Kabob</h6>
-                                        <p>20.00</p>
-                                    </div>
-                                    <p>Two skewers of thick pieces of beef tenderloin, marinated &amp; cooked on the grill to your preference.</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Kafta</h6>
-                                        <p>17.00</p>
-                                    </div>
-                                    <p>Three pieces of pure lean ground beef minced with parsley, onions, flavourful spices, grilled</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Beef Shawarma</h6>
-                                        <p>15.00</p>
-                                    </div>
-                                    <p>Shredded pieces of marinated beef tenderloin freshly cooked on the grill</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Chicken Shawarma</h6>
-                                        <p>14.00</p>
-                                    </div>
-                                    <p>Shredded pieces of marinated boneless chicken breast freshly cooked on the grill</p>
-                                </div>
-                            </div>
-
-                            <div class="column-4">
-                                <div class="menu-item">
-                                    <div class="title-price">
-                                        <h6>Mixed Shawarma</h6>
-                                        <p>16.00</p>
-                                    </div>
-                                    <p>Mixture of beef &amp; chicken</p>
+                                    <p>Four pieces of tender New Zealand lamb chops seasoned &amp; marinated with a house recipe &amp; grilled to your preference</p>
                                 </div>
                             </div>
 
@@ -721,13 +633,29 @@
                             <div class="column-12 pasta">
                                 <div class="menu-item">
                                     <div class="title-price">
-                                        <h6>Create your own pasta</h6>
-                                        <p>14.00</p>
+                                        <h6>Choose pasta & sauce from the following</h6>
                                     </div>
-                                    <p><strong>Your choice of pasta:</strong><br/>
-                                    Linguine, Spagetti, Gnocchi or Tortellini</p>
-                                    <p><strong>Your Choice of Sauce:</strong><br/>
-                                    Marinara, Alfredo, Blush or Garlic Butter</p>
+                                    <p>Linguine, spagetti, gnocchi or tortellini</p>
+                                    <p>Marinara, alfredo, blush or garlic Butter</p>
+                                    <p><strong>Don't forget to add chicken, beef or seafood to your pasta!</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <h4 class="tab-title" data-tab="13">Steaks</h4>
+                    <div class="tabs__content" data-tab="13">
+                        <div class="container">
+
+                            <div class="column-12">
+                                <div class="menu-item">
+                                    <div class="title-price">
+                                        <h6>All seasoned and marinated with a house recipe &amp; cooked to your preference.</h6>
+                                    </div>
+                                    <p>Add sauteed mushrooms</p>
+                                    <p><strong>10 oz. New York Steak</strong></p>
+                                    <p><strong>10 oz. Rib Steak</strong></p>
+                                    <p><strong>8 oz. Filet Mignon</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -747,7 +675,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Chicken Shish Tawook</h6>
-                                        <p>5.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -756,7 +683,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Kafta</h6>
-                                        <p>5.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -765,7 +691,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beef Shish Kabob</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -774,7 +699,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Shrimp</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -783,7 +707,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Lamb Chop (1 piece)</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                             </div>
@@ -798,25 +721,21 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Chocolate Fantasy Cake</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Cheese Cake</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Tiramisu</h6>
-                                        <p>6.00</p>
                                     </div>
                                 </div>
                                 <div class="menu-item">
                                     <div class="title-price baklava">
                                         <h6>Baklava</h6>
-                                        <p>1.00/pc</p>
                                     </div>
                                 </div>
                             </div>
@@ -832,7 +751,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Juices</h6>
-                                        <p>2.50</p>
                                     </div>
                                     <p>Apple Juice, Orange Juice, Cranberry Juice, Pineapple Juice, Lemonade</p>
                                 </div>
@@ -842,7 +760,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Freshly Squeezed &amp; Nectar Juices</h6>
-                                        <p>3.50</p>
                                     </div>
                                     <p>Fresh Apple Juice, Fresh Carrot Juice, Mango, Guava, Cocktail Nectar</p>
                                 </div>
@@ -852,7 +769,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Pops</h6>
-                                        <p>2.00</p>
                                     </div>
                                     <p>Ask about our wide selection of pop</p>
                                 </div>
@@ -863,10 +779,10 @@
                                     <div class="title-price">
                                         <h6>Coffees &amp; Teas</h6>
                                     </div>
-                                    <p><strong>Tea</strong> (Ask about our wide selection of teas) | 2.00<br/>
-                                    <strong>Coffee</strong> | 2.00<br/>
-                                    <strong>Espresso/Turkish Coffee</strong> | 2.50<br/>
-                                    <strong>Cappuccino</strong> | 3.00</p>
+                                    <p><strong>Tea</strong> (Ask about our wide selection of teas)<br/>
+                                    <strong>Coffee</strong><br/>
+                                    <strong>Espresso/Turkish Coffee</strong><br/>
+                                    <strong>Cappuccino</strong></p>
                                 </div>
                             </div>
 
@@ -875,13 +791,13 @@
                                     <div class="title-price">
                                         <h6>Other</h6>
                                     </div>
-                                    <p><strong>O’Douls Non-Alcoholic Beer</strong> | 4.00<br/>
-                                    <strong>Flavoured Laziza Non-Alcoholic Beer</strong> | 4.00<br/>
-                                    <strong>Ayran Yogurt</strong> | 3.50<br/>
-                                    <strong>San Pellegrino</strong> | S 2.00 | L 5.00<br/>
-                                    <strong>Virgin Caesar</strong> | 4.00<br/>
-                                    <strong>Shirley Temple</strong> | 2.50<br/>
-                                    <strong>Arnold Palmer</strong> | 2.50</p>
+                                    <p><strong>O’Douls Non-Alcoholic Beer</strong><br/>
+                                    <strong>Flavoured Laziza Non-Alcoholic Beer</strong><br/>
+                                    <strong>Ayran Yogurt</strong><br/>
+                                    <strong>San Pellegrino</strong><br/>
+                                    <strong>Virgin Caesar</strong><br/>
+                                    <strong>Shirley Temple</strong><br/>
+                                    <strong>Arnold Palmer</strong></p>
                                 </div>
                             </div>
 
@@ -896,7 +812,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Premium Wells</h6>
-                                        <p>7.00</p>
                                     </div>
                                     <p>Grey Goose Vodka, Crown Royal, Tanqueray Gin, Captain Morgan Rum</p>
                                 </div>
@@ -907,10 +822,10 @@
                                     <div class="title-price">
                                         <h6>Beer</h6>
                                     </div>
-                                    <p><strong>Coors Light</strong> | 5.00<br/>
-                                    <strong>Budweiser</strong> | 5.00<br/>
-                                    <strong>Corona</strong> | 6.00<br/>
-                                    <strong>Stella</strong> | 6.00</p>
+                                    <p><strong>Coors Light</strong><br/>
+                                    <strong>Budweiser</strong><br/>
+                                    <strong>Corona</strong><br/>
+                                    <strong>Stella</strong></p>
                                 </div>
                             </div>
 
@@ -919,11 +834,11 @@
                                     <div class="title-price">
                                         <h6>Cocktails</h6>
                                     </div>
-                                    <p><strong>White/Red Sangria</strong> | 8.00<br/>
-                                    <strong>Caesar</strong> | 7.00<br/>
-                                    <strong>Long Island</strong> | 8.00<br/>
-                                    <strong>Premium Martini</strong> | 9.00<br/>
-                                    <strong>Manhattan/Old Fashion</strong> | 8.00</p>
+                                    <p><strong>White/Red Sangria</strong><br/>
+                                    <strong>Caesar</strong><br/>
+                                    <strong>Long Island</strong><br/>
+                                    <strong>Premium Martini</strong><br/>
+                                    <strong>Manhattan/Old Fashion</strong></p>
                                 </div>
                             </div>
 
@@ -931,7 +846,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Beringer Main &amp; Vine White Zinfandel</h6>
-                                        <p>35.00</p>
                                     </div>
                                     <p><em>Rosé, USA</em></p>
                                     <p>White Zinfandel is actually produced using the dark red grape variety zinfandel; the light pink colour is a result of stopped fermentation that allows the juice to remain higher in sweetness and also retain it’s pretty pink hue. Look for aromas and flavours of melon, strawberry, and citrus on a soft, medium-sweet palate.</p>
@@ -942,7 +856,6 @@
                                 <div class="menu-item">
                                     <div class="title-price">
                                         <h6>Veuve Clicquot Brut Champagne</h6>
-                                        <p>65.00 | 95.00</p>
                                     </div>
                                     <p><em>Champagne, France</em></p>
                                     <p>Pale lemon with fine bubbles; the nose is filled with aromas of apple, pear, toast and brioche; the palate is extra-dry and medium to full body with flavours that match the aromas.</p>
@@ -955,13 +868,13 @@
                                     <div class="title-price">
                                         <h6>Wine by the glass</h6>
                                     </div>
-                                    <p><strong>Red 6 oz Jackson-Triggs Cabernet Sauvignon</strong> | 7.00<br/>
+                                    <p><strong>Red 6 oz Jackson-Triggs Cabernet Sauvignon</strong><br/>
                                     <em>Cabernet Sauvignon, Ontario</em></p>
-                                    <p><strong>Red 6 oz Cesari Adesso Merlot d’Italia</strong> | 7.00<br/>
+                                    <p><strong>Red 6 oz Cesari Adesso Merlot d’Italia</strong><br/>
                                     <em>Merlot, Veneto, Italy</em></p>
-                                    <p><strong>White 6 oz Inniskillin Dry Riesling VQA</strong> | 8.00<br/>
+                                    <p><strong>White 6 oz Inniskillin Dry Riesling VQA</strong><br/>
                                     <em>Riesling, Ontario</em></p>
-                                    <p><strong>White 6oz Bolla Pinot Grigio delle Venezie IGT</strong> | 8.00<br/>
+                                    <p><strong>White 6oz Bolla Pinot Grigio delle Venezie IGT</strong><br/>
                                     <em>Pinot Grigio, Veneto, Italy</em></p>
                                 </div>
                             </div>
@@ -978,7 +891,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Sprucewood Shores Lady in Red VQA</h6>
-                                                    <p>40.00</p>
                                                 </div>
                                                 <p><em>Cabernet/Merlot, Ontario, Canada</em></p>
                                                 <p>This elegant red from the shores of Lake Erie greets you with aromas of ripe red berry fruit; dancing on the medium-bodied palate with flavours of vanilla, plum, and raspberry. Dry with medium acidity this balanced red finishes with soft and supple tannins.</p>
@@ -989,7 +901,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Mirassou Pinot Noir</h6>
-                                                    <p>40.00</p>
                                                 </div>
                                                 <p><em>Pinot Noir, California, USA</em></p>
                                                 <p>Pale ruby colour; raspberry, sour cherry and touch of vanilla in the nose; dry light to medium body; soft cherry and cranberry flavours, soft, smooth finish.</p>
@@ -1000,7 +911,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Apothic Red</h6>
-                                                    <p>40.00</p>
                                                 </div>
                                                 <p><em>Blend, California, USA</em></p>
                                                 <p>Ruby colour; aromas include plum, blackberry, spice notes, raspberry and vanilla; medium body; layers of ripe fruit and vanilla flavours with a long finish.</p>
@@ -1011,7 +921,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>J. Lohr Seven Oaks Cabernet Sauvignon</h6>
-                                                    <p>50.00</p>
                                                 </div>
                                                 <p><em>Cabernet Sauvignon, California, USA</em></p>
                                                 <p>Full-bodied &amp; Smooth.</p>
@@ -1022,7 +931,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Nugan Estate Alfredo Second Pass Shiraz</h6>
-                                                    <p>40.00</p>
                                                 </div>
                                                 <p><em>Shiraz/Syrah, Australia</em></p>
                                                 <p>Deep ruby with a purple hue; the nose suggests aromas of kirsch, black pepper and mint; on the palate it is dry and medium-full bodied with flavours of dried red berry, pepper, smoke and new leather.</p>
@@ -1033,7 +941,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Wolf Blass Yellow Label Cabernet Sauvignon</h6>
-                                                    <p>45.00</p>
                                                 </div>
                                                 <p><em>Cabernet Sauvignon, Australia</em></p>
                                                 <p>Deep red purple colour; dry and full bodied; mulberry/cassis fruit aromas with pronounced eucalyptus, spice and oak; balanced with soft tannins and a long, fruity finish.</p>
@@ -1044,7 +951,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Les Jamelles Merlot</h6>
-                                                    <p>40.00</p>
                                                 </div>
                                                 <p><em>Merlot, France</em></p>
                                                 <p>A deep ruby colour with forward dark fruit aromas that include black berries, currants and cherries; medium body, easy drinking.</p>
@@ -1055,7 +961,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Chateauneuf-du-Pape Chapoutier Les Grands Merisiers</h6>
-                                                    <p>60.00</p>
                                                 </div>
                                                 <p><em>Regional Blended Red, Rhône, France</em></p>
                                                 <p>The balanced, spicy flavours of ripe red fruit flirt with earthy, herbal undertones in this highly recommended Rhône region favourite. It’s definitely worth the splurge.</p>
@@ -1066,7 +971,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Ruffino Chianti Classico Riserva Ducale DOCG</h6>
-                                                    <p>50.00</p>
                                                 </div>
                                                 <p><em>Chianti, Tuscany, Italy</em></p>
                                                 <p>Bright ruby colour; cherry, plum, spice, and leather notes on the nose; dry, medium to full bodied, tart cherry and plum flavours with hints of cedar, firm, tannins and a long spicy finish.</p>
@@ -1077,7 +981,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Batasiolo Barolo DOCG</h6>
-                                                    <p>60.00</p>
                                                 </div>
                                                 <p><em>Barolo, Piedmont, Italy</em></p>
                                                 <p>Garnet red colour; plum and cherry aromas and flavours with hints of violets, tar, licorice, earth and spice; dry, medium to full bodied, excellent balance of fruit and tannins with a long, complex finish.</p>
@@ -1088,7 +991,6 @@
                                             <div class="menu-item">
                                                 <div class="title-price">
                                                     <h6>Cesari Amarone Classico Doc</h6>
-                                                    <p>65.00</p>
                                                 </div>
                                                 <p><em>Amarone, Veneto, Italy</em></p>
                                                 <p>Deep ruby colour; dried cherries, plums, herb and tobacco aromas; dry, medium to full bodied; rich flavours plums, dried red berries and spice; long finish.</p>
@@ -1108,7 +1010,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Pelee Island Gewurztraminer</h6>
-                                                        <p>35.00</p>
                                                     </div>
                                                     <p><em>Gewürztraminer, Canada</em></p>
                                                     <p>Pale straw/yellow colour; floral, ripe peach, honey and lychee fruit aromas; off-dry, light to medium bodied, softly structured with balanced acidity, flavours of honeysuckle, rose water, pear, citrus and lychee; hints of spice on the finish.</p>
@@ -1119,7 +1020,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Ironstone Obsession Symphony</h6>
-                                                        <p>40.00</p>
                                                     </div>
                                                     <p><em>Symphony, California, USA</em></p>
                                                     <p>Pale lemon; aromas of stone fruit, with floral ripe peach, ripe apple, lychee and tropicalnotes; off-dry, light-bodied, balanced fresh acidity; grapey flavours of delicious apple,peach, floral rose and tropical fruit.</p>
@@ -1130,7 +1030,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Ghost Pines Chardonnay</h6>
-                                                        <p>45.00</p>
                                                     </div>
                                                     <p><em>Chardonnay, California, USA</em></p>
                                                     <p>Pale straw colour; intense oak, vanilla and butterscotch nose with some pear and tropical fruit on the palate followed by a medium-long, sweet vanilla finish.</p>
@@ -1141,7 +1040,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Oyster Bay Sauvignon Blanc</h6>
-                                                        <p>45.00</p>
                                                     </div>
                                                     <p><em>Sauvignon Blanc, Marlborough, New Zealand</em></p>
                                                     <p>Aromatic &amp; Flavourful.</p>
@@ -1152,7 +1050,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Goats do Roam White</h6>
-                                                        <p>40.00</p>
                                                     </div>
                                                     <p><em>Blend, South Africa</em></p>
                                                     <p>Light lemon yellow colour; floral aromas of peach, pear and herb; dry, medium-bodied with fresh acidity; apricot and apple flavours with a touch of honey into the medium, balanced finish.</p>
@@ -1163,7 +1060,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Santa Margherita Pinot Grigio</h6>
-                                                        <p>45.00</p>
                                                     </div>
                                                     <p><em>Pinot Grigio, Alto Adige/Trentino, Italy</em></p>
                                                     <p>Light &amp; crisp.</p>
@@ -1174,7 +1070,6 @@
                                                 <div class="menu-item">
                                                     <div class="title-price">
                                                         <h6>Montalto Pinot Grigio Sicily IGT</h6>
-                                                        <p>30.00</p>
                                                     </div>
                                                     <p><em>Pinot Grigio, Sicily, Italy</em></p>
                                                     <p>Pale straw with green highlights; light floral, pear, apple and lemon aromas; dry, medium/light body; round fruit flavour and clean citrus finish.</p>
@@ -1185,9 +1080,11 @@
 
                                     </div>
                                 </div>
-                            </div>
 
+                            </div>
+                            <p style="text-align:center;width:100%;">Please advise your server of any allergies or dietary restrictions - 18% gratuity applied to tables with 8 guests or more</p>
                         </div>
+
                     </div>
 
                 </div>
@@ -1400,7 +1297,7 @@
                         <label for="email">E-Mail</label>
                         <div class="img-container">
                             <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                            <input type="email" name="email" id="email" placeholder="Your e-mail">
+                            <input type="email" name="email" id="email" placeholder="Your e-mail" required>
                         </div>
                     </div>
                     <div class="column-4">

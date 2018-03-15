@@ -5,6 +5,7 @@
 */
 body {
     overflow-x: hidden;
+    max-width:100vw;
 }
 
 h1 {
@@ -64,18 +65,14 @@ p {
     
         .text-overlay {
             position: absolute;
-            top:150px;
+            top:50%;
             left:50%;
-            transform:translateX(-50%);
-            max-width:35%;
+            transform:translate(-50%, -50%);
+            max-width:50%;
 
             @media screen and (max-width:32em) {
                 top:20%;
                 max-width:50%;
-            }
-
-            @media screen and (min-width:1441px) {
-                top:100px;
             }
         }
 
@@ -181,7 +178,7 @@ p {
     height:70px;
     background-image:url("../img/logoside.png");
     background-repeat:no-repeat;
-    background-size:225px;
+    background-size:125px;
     background-position:5% 50%;
 
     .nav__container {
@@ -516,6 +513,11 @@ p {
 
 
 //picture sliders 
+.sliders-container {
+    max-width:100vw;
+    overflow-x:hidden;
+}
+
 .menu-slider, .diner-slider {
     //max-height:400px;
 
@@ -623,7 +625,7 @@ p {
 
 //testimonials
 .testimonials-container {
-    background: url('../img/background2.jpg') no-repeat 0 -250px;
+    background: url('../img/background2.jpg') no-repeat 0 100%;
     background-size:cover;
     background-attachment:fixed;
 
