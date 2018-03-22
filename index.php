@@ -21,7 +21,7 @@
 
     <title>Eddy's</title>
     <meta name="description" content="Eddy's is your stop for delicious food at great prices. Our customers truly appreciate our commitment to providing quality food and service. As a result, they’ve rated us #1 our of 650 restaurants in Windsor. Haven’t had a chance to try our food yet? We invite you to come by and promise you’ll see why we’re #1!">
-    <meta name="keywords" content="eddy's, eddys, eddy's bistro, eddy's mediterranean bistro, mediterranean, food, restaurant, windsor, windsor restaurant, mediteranean food, dine in, take out, delivery, catering, appetizers, soup, salad, manakeesh, wraps, lunch, combos, lunch combos, platters, entres, pasta, skewers, dessert, drinks, wine, bar, alcohol">
+    <meta name="keywords" content="eddy's, eddys, eddy's bistro, eddy's mediterranean bistro, mediterranean, food, restaurant, windsor, windsor restaurant, mediteranean food, dine in, take out, delivery, catering, appetizers, soup, salad, manakeesh, wraps, lunch, combos, lunch combos, platters, entrees, pasta, skewers, dessert, drinks, wine, bar, alcohol">
 
     <!-- Favicons -->
 
@@ -145,7 +145,7 @@
                     <li data-tab="4">Wraps</li>
                     <li data-tab="5">Lunch Combos</li>
                     <li data-tab="6">Platters</li>
-                    <li data-tab="7">Entres</li>
+                    <li data-tab="7">Entrees</li>
                     <li data-tab="8">Pasta</li>
                     <li data-tab="13">Steaks</li>
                     <li data-tab="9">Skewers</li>
@@ -1340,8 +1340,6 @@
                 <h6>Facebook</h6>
                 
                 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Feddysmediterraneanbistro&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=110296476337593" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-                <a href="https://www.skipthedishes.com/eddys-mediterranean-bistro" title="Windsor Food Delivery, Windsor Order Delivery"><img src="http://blog.SkipTheDishes.com/wp-content/uploads/orderdeliverynow_RED.png" border="0" alt="Windsor Food Delivery, Windsor Order Delivery"></a>
             </div>
             <div class="column-4">
                 <h6>Contact Us</h6>
